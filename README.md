@@ -1,14 +1,12 @@
-# App Name
- ** Ludo **
+# Title
+  **Ludo**
 
----
 ## Description
-  An android Based Ludo game
+  An android based Ludo game
 
 ## Type Of App
   Game
  
----
 ## Main Features
 -  Can play with other friend offline
 -  Can Play four player as individual
@@ -20,7 +18,6 @@
 -  Can exit a match and start a new match
 -  Winning animation
 -  Can see match log
----  
 
 ## Operating system
  Android OS
@@ -34,11 +31,9 @@ Android Studio
 ## References
 Will be added later
 
-***
 ## Developers
+  **Project Owner  :   Md Afridi Hasan [1712520642]**
 
- *Project Owner  :   Md Afridi Hasan [1712520642]
-
- Scrum Master   :   Md Afridi Hasan [1712520642]*
+  **Scrum Master   :   Md Afridi Hasan [1712520642]**
 
 ***
