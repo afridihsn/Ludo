@@ -8,14 +8,12 @@
   Game
  
 ## Main Features
--  Can play with other friend offline
+-  Play with a friend by sharing the phone.
 -  Can Play four player as individual
 -  Can play as a team, 2 v 2
 -  Can save game and resume it
 -  Player can choose side
--  Players can edit their names
 -  Can play with or without sound
--  Can exit a match and start a new match
 -  Winning animation
 -  Can see match log
 
