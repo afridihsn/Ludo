@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.afridi.ludo.Game"
+    android:id="@+id/rel"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="64dp"
+        >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/rectangle"
+            android:id="@+id/player1"
+            />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/rectangle"
+            android:id="@+id/player2"
+            />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/rectangle"
+            android:id="@+id/player3"
+            />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/rectangle"
+            android:id="@+id/player4"/>
+    </LinearLayout>
+
+    <com.afridi.ludo.CanvasBoardDraw
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/custom_canvas_1"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:src="@drawable/icon"
+        android:id="@+id/ivDice"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivRed1"
+        android:src="@drawable/red_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivRed2"
+        android:src="@drawable/red_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivRed3"
+        android:src="@drawable/red_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivRed4"
+        android:src="@drawable/red_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivGreen1"
+        android:src="@drawable/green_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivGreen2"
+        android:src="@drawable/green_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivGreen3"
+        android:src="@drawable/green_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivGreen4"
+        android:src="@drawable/green_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivBlue1"
+        android:src="@drawable/blue_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivBlue2"
+        android:src="@drawable/blue_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivBlue3"
+        android:src="@drawable/blue_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivBlue4"
+        android:src="@drawable/blue_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivYellow1"
+        android:src="@drawable/yellow_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivYellow2"
+        android:src="@drawable/yellow_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivYellow3"
+        android:src="@drawable/yellow_icon"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:id="@+id/ivYellow4"
+        android:src="@drawable/yellow_icon"
+        />
+</RelativeLayout>
