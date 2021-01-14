@@ -1,11 +1,11 @@
 [
     {
-        "merged": "H:\\NSU\\CSE327\\Project\\Ludo\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_player_select.xml.flat",
-        "source": "H:\\NSU\\CSE327\\Project\\Ludo\\LudoGame\\app\\src\\main\\res\\layout\\activity_player_select.xml"
-    },
-    {
         "merged": "H:\\NSU\\CSE327\\Project\\Ludo\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_win_blue.xml.flat",
         "source": "H:\\NSU\\CSE327\\Project\\Ludo\\LudoGame\\app\\src\\main\\res\\layout\\activity_win_blue.xml"
+    },
+    {
+        "merged": "H:\\NSU\\CSE327\\Project\\Ludo\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_player_select.xml.flat",
+        "source": "H:\\NSU\\CSE327\\Project\\Ludo\\LudoGame\\app\\src\\main\\res\\layout\\activity_player_select.xml"
     },
     {
         "merged": "H:\\NSU\\CSE327\\Project\\Ludo\\LudoGame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_win_green.xml.flat",
