@@ -26,12 +26,3 @@
 ## Tools/framework used
 Android Studio
 
-## References
-Will be added later
-
-## Developers
-  **Project Owner  :   Md Afridi Hasan [1712520642]**
-
-  **Scrum Master   :   Md Afridi Hasan [1712520642]**
-
-***
